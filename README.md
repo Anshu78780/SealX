@@ -77,7 +77,15 @@ Monitor the progress of your downloads in real-time.
 
 ## 📥 Download
 
-*(Add download link or instructions here)*
+Get the latest version of SealX from GitHub:
+
+<div align="center">
+  <a href="https://github.com/Anshu78780/SealX/releases">
+    <img src="https://img.shields.io/github/v/release/Anshu78780/SealX?style=for-the-badge&logo=android&logoColor=white&color=green" alt="Download Latest Release" />
+  </a>
+</div>
+
+**[📱 Download Latest APK](https://github.com/Anshu78780/SealX/releases)**
 
 ## 🛠️ Installation
 
